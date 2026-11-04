@@ -1,4 +1,4 @@
 package org.ldv.todoapp.controleur
 
-class MesInfosControleur {
+class MesInfosController {
 }
